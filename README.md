@@ -1,5 +1,3 @@
-# 👋 Seja bem-vindo!
-
 🎓 Graduando em **Engenharia de Software pela Universidade de Brasília (UnB)** e **entusiasta de Cybersecurity**.
 
 ## 💻 Tecnologias:
